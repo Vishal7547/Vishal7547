@@ -1,7 +1,7 @@
    ### Hello, i' am Vishal Kumar! 👋
    
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C langauge
+- 🌱 I’m currently learning DSA langauge
 -<!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me instagram -vishalroy247
 

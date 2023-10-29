@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal7547&label=Profile%20views&color=0e75b6&style=flat" alt="vishal7547" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://codesandbox.io/u/Vishal7547](https://codesandbox.io/u/Vishal7547)
 

@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javascript,html,css,react**
 
-- 📫 How to reach me **vishalkumar.shop**
+- 📫 How to reach me **https://vishal-portfolio-amber.vercel.app/**
 
 - ⚡ Fun fact **I am not funny**
 

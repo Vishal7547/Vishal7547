@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://codesandbox.io/u/Vishal7547](https://codesandbox.io/u/Vishal7547)
+
 
 - 💬 Ask me about **javascript,html,css,react**
 
